@@ -1,8 +1,0 @@
-# Ignore VS Code settings
-.vscode/
-
-# Ignore compiled output
-bin/
-
-# Ignore macOS system files
-.DS_Store
